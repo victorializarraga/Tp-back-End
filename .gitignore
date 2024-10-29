@@ -1,0 +1,3 @@
+# Ignorar archivos y carpetas de configuración de Visual Studio
+.vs/
+*.vsidx
